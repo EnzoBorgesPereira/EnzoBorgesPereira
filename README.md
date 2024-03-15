@@ -1,4 +1,6 @@
+# 👋 Welcome!
 
+Welcome to my GitHub profile! I'm a young developer with a full IT training, where I acquired a solid foundation in web development (HTML5, CSS3, JavaScript) and programming (Python, C, PHP 8). I also learned the fundamentals of database design, versioning with Git and web project development. My passion for technology has also led me to explore the fields of virtualisation, information systems security and video game development on Unity. Thanks to this diverse background, I'm ready to take on the challenges of software development and contribute to innovative projects. Find out more about my work and don't hesitate to contact me to discuss opportunities for collaboration!
 
 - 📫 Contact me on **borgespereira.enzo@gmail.com**
 
