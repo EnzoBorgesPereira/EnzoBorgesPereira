@@ -20,6 +20,9 @@ Thanks to this diverse background, I'm ready to take on the challenges of softwa
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=fff)](https://www.python.org/)
+[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
+[![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/-.NET-000?&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com/)
 
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=fff)](https://reactjs.org/)
 
