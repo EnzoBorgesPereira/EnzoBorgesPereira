@@ -1,5 +1,5 @@
 ## Find me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF91A4?&logo=LinkedIn&logoColor=0A66C2)]([https://www.linkedin.com/in/jarjatremi/](https://www.linkedin.com/feed/)https://www.linkedin.com/in/enzo-borges-pereira-647a67212/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF91A4?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/enzo-borges-pereira-647a67212/)
 
 ## Languages and tools
 
