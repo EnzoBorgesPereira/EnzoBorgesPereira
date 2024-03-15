@@ -1,3 +1,7 @@
+- 📫 Contact me on **borgespereira.enzo@gmail.com*
+
+[![EnzoBorgesPereira](https://github-profile-trophy.vercel.app/?username=EnzoBorgesPereira&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF91A4?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/enzo-borges-pereira-647a67212/)
 
