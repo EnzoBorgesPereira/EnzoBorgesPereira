@@ -1,10 +1,10 @@
 # 👋 Welcome!
 
-Welcome to my GitHub profile! I'm a young developer with a full IT training, where I acquired a solid foundation in web development (HTML5, CSS3, JavaScript) and programming (Python, C, PHP 8). 
+Welcome to my GitHub profile! I'm a young developer with a passion for the world of code and currently employed at Upper-Link, an innovative digital solutions company (https://www.upper-link.com/).
 
-I also learned the fundamentals of database design, versioning with Git and web project development. My passion for technology has also led me to explore the fields of virtualisation, information systems security and video game development on Unity. 
+After completing a full IT training course, I acquired solid expertise in web development (HTML5, CSS3, JavaScript) and programming (Python, C, PHP 8). My background has also introduced me to database design, versioning with Git, and other key technologies such as Angular, C#, and .NET. 
 
-Thanks to this diverse background, I'm ready to take on the challenges of software development and contribute to innovative projects. Find out more about my work and don't hesitate to contact me to discuss opportunities for collaboration!
+I'm always looking for new challenges and opportunities to apply my skills and contribute to exciting projects. Please feel free to browse my work and contact me for any potential collaboration!
 
 - 📫 Contact me on **borgespereira.enzo@gmail.com**
 
