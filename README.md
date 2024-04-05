@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a young developer with a passion for the world of code and currently employed at Upper-Link, an innovative digital solutions company (https://www.upper-link.com/).
 
-After completing a full IT training course, I acquired solid expertise in web development (HTML5, CSS3, JavaScript) and programming (Python, C, PHP 8). My background has also introduced me to database design, versioning with Git, and other key technologies such as Angular, C#, and .NET. 
+After completing a full IT training course, I acquired solid expertise in web development (HTML5, CSS3, JavaScript) and programming (Python, C#, PHP 8). My background has also introduced me to database design, versioning with Git, and other key technologies such as Angular, C#, and .NET. 
 
 I'm always looking for new challenges and opportunities to apply my skills and contribute to exciting projects. Please feel free to browse my work and contact me for any potential collaboration!
 
