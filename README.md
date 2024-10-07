@@ -13,6 +13,7 @@ After completing a full IT training course, I acquired solid expertise in web de
 
 ## Languages and tools
 
+[![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=fff)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
